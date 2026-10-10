@@ -1,0 +1,6 @@
+total 8
+-rw-r--r-- 1 wontae wontae 38 Oct 10 16:54 aaa.txt
+-rw-r--r-- 1 wontae wontae 37 Oct 10 16:54 bbb.txt
+-rw-r--r-- 1 wontae wontae  0 Oct 10 17:09 ccc.txt
+koala3121
+korean
